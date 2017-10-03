@@ -1,3 +1,5 @@
 https://stackoverflow.com/questions/37159201/which-one-is-er-diagram
 
 http://www.studytonight.com/dbms/er-diagram.php
+
+https://books.google.com/books?id=iNAezyMExBkC&pg=PA113&lpg=PA113&dq=An+overlapping+inheritance+hierarchy&source=bl&ots=BMn53ZEevn&sig=zKuXtKsmF3FJHcM4OfKN3Sx_WJs&hl=en&sa=X&ved=0ahUKEwj5leaZwtPWAhVkqlQKHVT0ABAQ6AEILjAB#v=onepage&q=An%20overlapping%20inheritance%20hierarchy&f=false
