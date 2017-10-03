@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/37159201/which-one-is-er-diagram
+
+http://www.studytonight.com/dbms/er-diagram.php
